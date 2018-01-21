@@ -1,6 +1,10 @@
 function getIt(){
   $('p').on('click', alert("Hey!"))
-}//define functions here
+}
+function frameIt(){
+  $('img').on('load',attr('tasty'))
+}
+//define functions here
 
 $(document).ready(function(){
 
