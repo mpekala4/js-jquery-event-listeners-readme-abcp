@@ -16,7 +16,7 @@ function pressIt(){
   } else
 
   {$("#71").keydown(function() {
-    if (.keydown === 71 ) {.preventDefault();. }
+    if (.keydown === 71 ) {.preventDefault();}
 
   }
 }
